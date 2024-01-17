@@ -1,0 +1,2 @@
+Pasar de typescript a JS lo hace el compilador de Ts, que se llama Tsc, es el encargado de tomar el codigo de typescript y lo traduce a codigo javascript para que se pueda ejecutar en node o en un navegador. Este proceso se llama Transpilacion.
+  La Transpilacion es un subconjunto de la compilacion
